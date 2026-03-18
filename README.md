@@ -1,11 +1,8 @@
 # Sistema de Gerenciamento de Ferramentas Emprestadas
-Projeto de gerenciamento de ferramentas emprestadas com foco em qualidade de software, incluindo user stories, testes de aceitação, requisitos funcionais e cenários de teste.
-
-# 🛠 Sistema de Gerenciamento de Ferramentas Emprestadas
 
 Este projeto foi desenvolvido com o objetivo de gerenciar o empréstimo de ferramentas, permitindo o controle de cadastros, empréstimos, devoluções e relatórios.
 
-Além da implementação do sistema, o projeto inclui documentação completa de requisitos, user stories, testes de aceitação e cenários de teste, com foco em Qualidade de Software (QA).
+O projeto inclui documentação completa de requisitos, user stories, testes de aceitação e cenários de teste, com foco em Qualidade de Software (QA).
 
 ---
 
